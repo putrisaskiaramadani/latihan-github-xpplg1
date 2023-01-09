@@ -1,2 +1,5 @@
-# latihan-github-xpplg1
-latihan-github-xpplg1
+nama: saskia putri
+<br>
+kelas: xpplg1
+
+I LOVE CODING
